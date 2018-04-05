@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f8e84f916f5c3204e9a4b6fcc4b688ce
+timeCreated: 1522876226
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: THE AMAZING SPIDER-MAN
+  fontNames:
+  - THE AMAZING SPIDER-MAN
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
